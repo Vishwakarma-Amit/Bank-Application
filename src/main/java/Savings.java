@@ -27,6 +27,4 @@ public class Savings extends Account{
         safetyBoxDepositId = (int) (Math.random() * Math.pow(10, 3));
         safetyBoxDepositKey = (int) (Math.random() * Math.pow(10, 4));
     }
-
-
 }

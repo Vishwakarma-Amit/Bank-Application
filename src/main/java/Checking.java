@@ -28,8 +28,4 @@ public class Checking extends Account{
         debitCardNumber = (long) (Math.random()*Math.pow(10, 12));
         debitCardPin = (int) (Math.random()*Math.pow(10, 4));
     }
-
-
-
-    // ANy method specific to the checking account
 }
